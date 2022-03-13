@@ -1,5 +1,5 @@
 
-Oi 👋, Meu nome é Priscila.
+👋, Meu nome é Priscila.
 
 👩🏾‍💻 Estou estuando Full Stack em Javascript.
 
