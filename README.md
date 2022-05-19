@@ -7,4 +7,4 @@ Olá, me Chamo Priscila,
 ✔ Gerenciar fila de atendimento (Ticket Manager); 
 ✔ Plano de melhoria Contínua; 
 ✔ Entrega de relatórios de indicadores de qualidade e produtividade, qualidade, Ponto Focal, Pleno.
-✔ Estou me aprimorando em programação  Full Stack em JavaScrip.
+✔ Estou me aprimorando em programação  Full Stack em Java
